@@ -1,0 +1,11 @@
+The DISC model categorizes behavior into four types: Dominance, Influence, Steadiness, and Conscientiousness.
+
+Dominance: High D individuals are direct, decisive, and results-oriented. They thrive in competitive environments.
+
+Influence: High I individuals are outgoing, enthusiastic, and persuasive. They excel in social and sales roles.
+
+Steadiness: High S individuals are calm, patient, and loyal. They prefer stable, supportive work settings.
+
+Conscientiousness: High C individuals are analytical, detail-oriented, and precise. They are ideal for roles requiring accuracy.
+
+DISC is used in recruitment to match candidates' behavioral styles with job requirements.

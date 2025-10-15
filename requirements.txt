@@ -1,0 +1,12 @@
+streamlit
+langchain
+openai
+faiss-cpu
+pandas
+matplotlib==3.7.1
+reportlab
+pyAudioAnalysis
+librosa
+opencv-python
+fer
+numpy==1.24.4
